@@ -1,37 +1,23 @@
-# JavaData
+# JsonData
 
-**JavaData** is a lightweight and efficient data management library for Java, designed to simplify working with structured data. Whether you are building small projects or enterprise applications, **JavaData** provides tools to manipulate, validate, and process data effortlessly.
+**JsonData** is a lightweight and easy-to-use Python library for managing JSON data efficiently. It simplifies reading, writing, and manipulating JSON files, making it ideal for both small projects and larger applications.
 
 ---
 
 ## Features
 
-- **Easy Data Handling**: Seamless parsing, reading, and writing of structured data like JSON, XML, and CSV.
-- **High Performance**: Optimized for speed and memory efficiency to handle large datasets.
-- **Data Validation**: Built-in utilities to validate and transform data.
-- **Modular Design**: Lightweight and modular components make it easy to integrate into any Java project.
-- **Extensible**: Easily customizable to suit your application's specific data requirements.
-
----
-
-## Use Cases
-
-- Building data-driven applications  
-- Processing API responses  
-- Handling large datasets for analysis  
-- Validating and transforming user input  
+- **Read and Write JSON**: Effortlessly read data from or write data to JSON files.
+- **Key-Based Access**: Access and update JSON data using simple key-value operations.
+- **File Handling**: Seamless integration with file I/O to load and save JSON content.
+- **Compact and Efficient**: Designed to be lightweight, clean, and fast.
+- **Error Handling**: Built-in checks to handle file and key errors gracefully.
 
 ---
 
 ## Installation
 
-To add **JavaData** to your project, include it as a dependency:
+Install using `pip`:
 
-### Using Maven
-```xml
-<dependency>
-    <groupId>com.yourcompany</groupId>
-    <artifactId>javadatalib</artifactId>
-    <version>1.0.0</version>
-</dependency>
+```bash
+pip install JsonData
 ```
