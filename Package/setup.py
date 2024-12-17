@@ -11,7 +11,7 @@ setup(
     description="Make Data using JSON",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/my_package",  # Your repository link
+    url="https://github.com/ThanaphatSuporn/JsonData/",  # Your repository link
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
